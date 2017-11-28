@@ -1,0 +1,16 @@
+C:\Users\tottemohimadesi\source\repos\VB_TweetApp\VB_TweetApp\bin\Debug\VB_TweetApp.exe.config
+C:\Users\tottemohimadesi\source\repos\VB_TweetApp\VB_TweetApp\bin\Debug\VB_TweetApp.exe
+C:\Users\tottemohimadesi\source\repos\VB_TweetApp\VB_TweetApp\bin\Debug\VB_TweetApp.pdb
+C:\Users\tottemohimadesi\source\repos\VB_TweetApp\VB_TweetApp\bin\Debug\VB_TweetApp.xml
+C:\Users\tottemohimadesi\source\repos\VB_TweetApp\VB_TweetApp\bin\Debug\CoreTweet.dll
+C:\Users\tottemohimadesi\source\repos\VB_TweetApp\VB_TweetApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tottemohimadesi\source\repos\VB_TweetApp\VB_TweetApp\bin\Debug\CoreTweet.xml
+C:\Users\tottemohimadesi\source\repos\VB_TweetApp\VB_TweetApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tottemohimadesi\source\repos\VB_TweetApp\VB_TweetApp\obj\Debug\VB_TweetApp.vbprojResolveAssemblyReference.cache
+C:\Users\tottemohimadesi\source\repos\VB_TweetApp\VB_TweetApp\obj\Debug\VB_TweetApp.FormTwitterPost.resources
+C:\Users\tottemohimadesi\source\repos\VB_TweetApp\VB_TweetApp\obj\Debug\VB_TweetApp.Resources.resources
+C:\Users\tottemohimadesi\source\repos\VB_TweetApp\VB_TweetApp\obj\Debug\VB_TweetApp.vbproj.GenerateResource.Cache
+C:\Users\tottemohimadesi\source\repos\VB_TweetApp\VB_TweetApp\obj\Debug\VB_TweetApp.vbproj.CoreCompileInputs.cache
+C:\Users\tottemohimadesi\source\repos\VB_TweetApp\VB_TweetApp\obj\Debug\VB_TweetApp.exe
+C:\Users\tottemohimadesi\source\repos\VB_TweetApp\VB_TweetApp\obj\Debug\VB_TweetApp.xml
+C:\Users\tottemohimadesi\source\repos\VB_TweetApp\VB_TweetApp\obj\Debug\VB_TweetApp.pdb
